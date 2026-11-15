@@ -1,0 +1,22 @@
+# Gradle / build output
+.gradle/
+build/
+/local.properties
+.kotlin/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# macOS
+.DS_Store
+
+# Release signing — never commit
+*.jks
+*.keystore
+keystore.properties
+
+# Built artifacts
+*.apk
+*.aab
