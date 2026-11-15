@@ -1,0 +1,16 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="16dp"
+    android:height="16dp"
+    android:viewportWidth="16"
+    android:viewportHeight="16">
+    <!-- Border -->
+    <path
+        android:strokeColor="#4F772D"
+        android:strokeWidth="1.5"
+        android:fillColor="#00000000"
+        android:pathData="M2,2 L14,2 L14,14 L2,14 Z" />
+    <!-- Green Dot -->
+    <path
+        android:fillColor="#4F772D"
+        android:pathData="M8,5 A3,3 0 1,0 8,11 A3,3 0 1,0 8,5 Z" />
+</vector>

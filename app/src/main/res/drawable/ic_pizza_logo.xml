@@ -1,0 +1,48 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+    <!-- Crust Outer -->
+    <path
+        android:fillColor="#E76F51"
+        android:pathData="M60,10 A50,50 0 1,0 60,110 A50,50 0 1,0 60,10 Z" />
+    <!-- Sauce & Cheese Inner -->
+    <path
+        android:fillColor="#F4A261"
+        android:pathData="M60,18 A42,42 0 1,0 60,102 A42,42 0 1,0 60,18 Z" />
+    <path
+        android:fillColor="#E9C46A"
+        android:pathData="M60,22 A38,38 0 1,0 60,98 A38,38 0 1,0 60,22 Z" />
+    <!-- Slice Cut Lines -->
+    <path
+        android:strokeColor="#D62828"
+        android:strokeWidth="1.5"
+        android:pathData="M60,60 L60,22 M60,60 L93,41 M60,60 L93,79 M60,60 L60,98 M60,60 L27,79 M60,60 L27,41" />
+    <!-- Pepperoni / Tomato slices -->
+    <path
+        android:fillColor="#D62828"
+        android:pathData="M46,42 A6,6 0 1,0 46,54 A6,6 0 1,0 46,42 Z" />
+    <path
+        android:fillColor="#D62828"
+        android:pathData="M74,42 A6,6 0 1,0 74,54 A6,6 0 1,0 74,42 Z" />
+    <path
+        android:fillColor="#D62828"
+        android:pathData="M60,72 A6,6 0 1,0 60,84 A6,6 0 1,0 60,72 Z" />
+    <path
+        android:fillColor="#D62828"
+        android:pathData="M40,68 A5,5 0 1,0 40,78 A5,5 0 1,0 40,68 Z" />
+    <path
+        android:fillColor="#D62828"
+        android:pathData="M80,68 A5,5 0 1,0 80,78 A5,5 0 1,0 80,68 Z" />
+    <!-- Basil Leaves -->
+    <path
+        android:fillColor="#4F772D"
+        android:pathData="M56,36 Q62,32 62,38 Q62,44 56,36 Z" />
+    <path
+        android:fillColor="#4F772D"
+        android:pathData="M68,58 Q74,54 74,60 Q74,66 68,58 Z" />
+    <path
+        android:fillColor="#4F772D"
+        android:pathData="M48,58 Q42,54 42,60 Q42,66 48,58 Z" />
+</vector>

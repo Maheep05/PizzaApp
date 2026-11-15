@@ -1,0 +1,25 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- Confetti popper -->
+    <path
+        android:fillColor="#E76F51"
+        android:pathData="M3,21 L8.5,15.5 L4.5,11.5 L3,21 Z" />
+    <path
+        android:fillColor="#D62828"
+        android:pathData="M8.5,15.5 L12.5,11.5 L8.5,7.5 L4.5,11.5 Z" />
+    <path
+        android:fillColor="#4F772D"
+        android:pathData="M14,4 L16,6 L18,4 L16,2 Z" />
+    <path
+        android:fillColor="#E9C46A"
+        android:pathData="M19,9 L22,9 L22,7 L19,7 Z" />
+    <path
+        android:fillColor="#D62828"
+        android:pathData="M15,11 L16,13 L18,12 L17,10 Z" />
+    <path
+        android:fillColor="#F4A261"
+        android:pathData="M10,2 L12,4 L10,6 L8,4 Z" />
+</vector>

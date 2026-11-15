@@ -1,0 +1,18 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="34dp"
+    android:height="41dp"
+    android:viewportWidth="40"
+    android:viewportHeight="48">
+    <!-- Map pin for the drop-off. Basil green separates it from the red outlet pin
+         on colour as well as on glyph. -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M20,0 C31,0 40,9 40,20 C40,31 20,48 20,48 C20,48 0,31 0,20 C0,9 9,0 20,0 Z" />
+    <path
+        android:fillColor="#4F772D"
+        android:pathData="M20,3 C29.4,3 37,10.6 37,20 C37,29.5 20,43.5 20,43.5 C20,43.5 3,29.5 3,20 C3,10.6 10.6,3 20,3 Z" />
+    <!-- House glyph -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M20,10 L30,19 L27.5,19 L27.5,28.5 L22.8,28.5 L22.8,22.5 L17.2,22.5 L17.2,28.5 L12.5,28.5 L12.5,19 L10,19 Z" />
+</vector>

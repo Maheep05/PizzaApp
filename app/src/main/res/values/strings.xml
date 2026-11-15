@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Pizza 5 P\'s</string>
+    <string name="tagline">Perfect Pizza. Perfect Moments.</string>
+    <string name="greeting">Hello, Pizza Lover 👋</string>
+    <string name="craving_prompt">What are you craving today?</string>
+</resources>
